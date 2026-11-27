@@ -8,6 +8,7 @@ i like windows internals, x86-64, emulators and ctfs.
 | project | what |
 | --- | --- |
 | [**basalt**](https://github.com/moonrelax/basalt) | experimental xbox series s research emulator in c++23: x86-64 interpreter, pe32+ loader, gdk stubs |
+| [**dacite**](https://github.com/moonrelax/dacite) | experimental ps5 research emulator in c: elf/prx loader, nid linker, hle stubs, vulkan gpu backend |
 
 #### tools
 
